@@ -1,3 +1,3 @@
 # Go Common
 
-Reliq Arts' base/common functions for Golang.
+Reliq Arts' base/common functions for Go.
