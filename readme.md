@@ -8,6 +8,5 @@ Reliq Arts' base/common functions for Go.
 ![License](https://poser.pugx.org/reliqarts/go-common/license?format=flat)
 ![Latest Stable Version](https://poser.pugx.org/reliqarts/go-common/version?format=flat)
 ![Latest Unstable Version](https://poser.pugx.org/reliqarts/go-common/v/unstable?format=flat)
-[![check it out!](https://img.shields.io/badge/read-the%20docs-blue.svg?style=flat)](http://common.reliqarts.com)
 
 &nbsp;
