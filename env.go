@@ -2,7 +2,6 @@ package common
 
 import (
 	"fmt"
-	"log"
 	"os"
 )
 
@@ -11,7 +10,6 @@ func GetEnvOrDefault(key string, defaultValue string) string {
 	val := os.Getenv(key)
 
 	if val == "" {
-		log.Printf("No value found for env var (%s). Using default: %s\n", key, defaultValue)
 		val = defaultValue
 	}
 
