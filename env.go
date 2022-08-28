@@ -20,7 +20,7 @@ func GetEnvOrDefault(key string, defaultValue string) string {
 func MustGetEnv(key string) string {
 	val := GetEnvOrDefault(key, "")
 	if val == "" {
-		panic(fmt.Sprintf("Env var `%s` must be provided and is missing!", key))
+		panic(fmt.Sprintf("Env var \"%s\" must be provided and is missing!", key))
 	}
 
 	return val
