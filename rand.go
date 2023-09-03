@@ -20,7 +20,7 @@ func RandomString(n int) string {
 
 	s := make([]rune, n)
 	for i := range s {
-		mRand.Seed(time.Now().UnixNano())
+		mRand.New(mRand.NewSource(time.Now().UnixNano()))
 		s[i] = letters[mRand.Intn(len(letters))]
 	}
 
