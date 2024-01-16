@@ -6,6 +6,7 @@ Reliq Arts' base/common functions for Go.
 [![Build Status](https://github.com/reliqarts/go-common/workflows/CI/badge.svg)](https://github.com/reliqarts/go-common/actions?query=workflow:CI)
 [![codecov](https://codecov.io/gh/reliqarts/go-common/branch/main/graph/badge.svg?token=YjM04YJcBC)](https://codecov.io/gh/reliqarts/go-common)
 [![https://goreportcard.com/report/github.com/reliqarts/go-common](https://goreportcard.com/badge/github.com/reliqarts/go-common)](https://goreportcard.com/report/github.com/reliqarts/go-common)
+[![Maintainability](https://api.codeclimate.com/v1/badges/33284c2e54eb43607ece/maintainability)](https://codeclimate.com/github/reliqarts/go-common/maintainability)
 
 
 &nbsp;
